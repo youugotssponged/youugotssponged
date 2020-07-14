@@ -6,9 +6,10 @@ I'm Jordan, a passionate, persistive graduate & programmer with a high interest 
 
 - ⭐️ I'm currently looking for work.
 - 🔭 I’m currently working on in my spare time: Android Apps, Games & Tools.
-- 🌱 I’m currently learning React, React Native, Angular, 
+- 🌱 I’m currently learning: React, React Native, Angular.
 - 💬 Ask me about: tech, memes, video games and food.
-- ⚡ Languages: C#, Java, C++, Javascript, Python, 
+- ⚡ Languages: C#, Java, C++, Javascript, Python.
+- 📫 How to reach me: Simply click one of the icons at the top of this readme. <3
 
 ---
 <!--
