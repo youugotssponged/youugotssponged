@@ -11,11 +11,6 @@ I'm Jordan, a passionate, persistive graduate & programmer with a high interest 
 - ⚡ Languages: C#, Java, C++, Javascript, Python, 
 
 ---
-
-![github stats](https://github-readme-stats.vercel.app/api?username=youugotssponged&show_icons=true)
-
-
----
 <!--
 **youugotssponged/youugotssponged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
