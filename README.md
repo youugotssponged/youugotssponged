@@ -2,7 +2,7 @@
 [![Outlook Badge](https://img.shields.io/badge/Email-jordanmccann64%40outlook.com-blue)](mailto:jordanmccann64@outlook.com)
 
 ## Hi there! 👋, 
-I'm Jordan, a passionate, persistive graduate & programmer with a high interest in newly emerging technologies, techniques, and methods within the Software & Games Industries. E-Learning Enthusiast 🏄‍♂️. 
+I'm Jordan, a passionate and persistive programmer with a high interest in newly emerging technologies, techniques, and methods within the Software & Games Industries. E-Learning Enthusiast 🏄‍♂️. EHU Graduate.
 
 - ⭐️ I'm currently looking for work.
 - 🔭 I’m currently working on in my spare time: Android Apps, Games & Tools.
