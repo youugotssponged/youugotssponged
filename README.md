@@ -4,10 +4,11 @@
 ## Hi there! 👋, 
 I'm Jordan, a passionate and persistive programmer with a high interest in newly emerging technologies, techniques, and methods within the Software & Games Industries. E-Learning Enthusiast 🏄‍♂️. EHU Graduate of BSc (Hons) Computing (Games Programming).
 
-- ⭐️ I'm currently looking for work.
-- 🔭 I’m currently working on in my spare time: Android Apps, Games & Tools.
-- 🌱 I’m currently learning: React, React Native, Angular & Typescript.
-- 💬 Ask me about: tech, memes, video games and food.
+- ⭐️ I'm currently looking for work - specifically Software Engineering(Graduate, Junior, Support).
+- 🔭 I’m currently working on in my spare time: Desktop Applications, Web Applications, Android Apps, Games & Tools.
+- 🌱 I’m currently learning the Technologies of: React, React Native, Angular, Typescript, ASP.NET Core, C# Entity Framework and C# Blazor.
+- 🌱 I’m currently learning the Techniques of: SOLID, MVC, MVVM, Reflection, 12 Factor Apps, Pairing & Implementing CI/CD Pipelines.       
+- 💬 Ask me about: Tech, Memes, Video Games and Food.
 - ⚡ Languages: C#, Java, C++, Javascript, Python.
 - 📫 How to reach me: Simply click one of the icons at the top of this readme. <3
 
