@@ -4,12 +4,11 @@
 ## Hi there! 👋, 
 I'm Jordan, a passionate and persistive programmer with a high interest in newly emerging technologies, techniques, and methods within the Software & Games Industries. E-Learning Enthusiast 🏄‍♂️. EHU Graduate of BSc (Hons) Computing (Games Programming).
 
-- ⭐️ I'm currently looking for work - specifically Software Engineering(Graduate, Junior, Support) for both web and desktop based development.
-- ⭐️ I'm a Volunteer Software Engineer for No Face Media UK to help gain further insight and experience to develop small infrastructure based applications and internal services.
+- ⭐️ I'm a Graduate Software Dev for PCS.
 - 🔭 I’m currently working on in my spare time: Desktop Applications, Web Applications, Games & Tools.
-- 🌱 I’m currently learning the Technologies of: Go, MongoDB, ASP.NET Core and C# Entity Framework.      
+- 🌱 I’m currently learning in my spare time: Go, MongoDB, ASP.NET Core, Blazor Wasm and C# Entity Framework.      
 - 💬 Ask me about: Tech, Memes, Video Games and Food.
-- ⚡ Languages: C#, Go, Java, C++, Javascript / Typescript, Python, SQL
+- ⚡ Languages in order of most used and most experienced: C#, Javascript / Typescript, Java, Go, C/C++, Python, SQL
 - 📫 How to reach me: Simply click one of the icons at the top of this readme. <3
 
 ---
